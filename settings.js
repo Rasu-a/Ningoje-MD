@@ -15,16 +15,16 @@ global.APIs = {
 
 //Api Key\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'sanzychan01', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
+	'https://zenzapis.xyz': 'ras17', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
 }
 
 //customize settings\\
 
-global.owner = ['Your Number']  //without '+' eg 254780986757
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
-global.ownername = 'Your Name'
-global.region = 'Nairobi, Nairobi, Kenya'
+global.owner = ['601117176162']  //without '+' eg 254780986757
+global.premium = ['601117176162']
+global.ownernomer = '601117176162'
+global.ownername = 'Ras'
+global.region = 'Perak,Malaysia'
 global.sessionName = 'session'
 
     global.limitawal = {
